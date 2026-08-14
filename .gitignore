@@ -1,0 +1,38 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+**/GeneratedPluginRegistrant.*
+**/generated_plugin_registrant.*
+**/*.g.dart
+**/*.freezed.dart
+
+# Android / iOS / Web generated folders
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+web/.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# Firebase / environment
+.env
+firebase-debug.log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
